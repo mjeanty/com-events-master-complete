@@ -1,0 +1,703 @@
+[
+    {
+        "Day": "Monday",
+        "Mic Name": "Strong Style Open Mic",
+        "Location": "Shakers on Clark",
+        "Address": "3162 N Clark St, Chicago, IL",
+        "Sign Up Time/Notes": "Sign up 5pm, one item min",
+        "Start Time": "5:30 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Make Some Noise",
+        "Location": "Maria's Packaged Good & Community Bar",
+        "Address": "960 W 31st St, Chicago, IL 60608",
+        "Sign Up Time/Notes": "Sign up 6:45ish, 7-9pm",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Shaken and Stirred Comedy Night",
+        "Location": "Olive Black",
+        "Address": "3032 N Lincoln Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Signup Online Sunday, 15 mic spots, 1 headliner",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Sub T Comedy",
+        "Location": "Subterranean",
+        "Address": "2011 W North Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "Open mic after show, show guest spots chosen from mic",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "The Early Mic",
+        "Location": "Wrigleyville North",
+        "Address": "3900 N Sheridan Rd, Chicago, IL 60613",
+        "Sign Up Time/Notes": "Sign up in person 6:30pm, 4 minute sets, extra minute for buying something",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "The Sandbox",
+        "Location": "Uptown Taproom",
+        "Address": "1265 W Wilson Ave, Chicago, IL 60640",
+        "Sign Up Time/Notes": "Sign up 7:00pm, 5 minute sets",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Riddles Open Mic",
+        "Location": "Riddles Comedy Club",
+        "Address": "5055 W 111th St, Alsip, IL",
+        "Sign Up Time/Notes": "Signup in-person 7:00pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Logan Lounge Open Mic",
+        "Location": "Logan Theatre",
+        "Address": "2646 N Milwaukee Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "Online through Lia Berman's FB google sheet post or in person for certain spots @liaberman3 on IG",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Laughs in Lakeview",
+        "Location": "Shakers on Clark",
+        "Address": "3162 N Clark St, Chicago, IL",
+        "Sign Up Time/Notes": "Sign up 8pm",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "The Late Night Mic",
+        "Location": "The Comedy Bar",
+        "Address": "162 E Superior St, Chicago, IL 60611",
+        "Sign Up Time/Notes": "In person sign up starting at 7:30pm, random draw, Mic after show",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Trigger Warning",
+        "Location": "Output Lounge",
+        "Address": "3720 N Clark St, Chicago, IL 60613",
+        "Sign Up Time/Notes": "Mondays In person sign up 9:00pm, spend $30 at the bar to bump in anywhere",
+        "Start Time": "9:45 PM"
+    },
+    {
+        "Day": "Monday",
+        "Mic Name": "Best Buds",
+        "Location": "My Buddy's",
+        "Address": "4416 N Clark St, Chicago, IL 60640",
+        "Sign Up Time/Notes": "Sign Up 9:30pm",
+        "Start Time": "10:00 PM"
+    },
+
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Tuesday Open Mic",
+        "Location": "The Lincoln Lodge",
+        "Address": "2040 N Milwaukee Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "Sign up 5:30pm, cap at 25",
+        "Start Time": "6:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Joke Surgery",
+        "Location": "Surge Billiards Logan Square",
+        "Address": "3716 W Fullerton Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "Weekly workshop mic. Signup in person at 6:15",
+        "Start Time": "6:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "The Big EZ Open Mic",
+        "Location": "EZ Inn",
+        "Address": "921 N Western Ave, Chicago, IL 60622",
+        "Sign Up Time/Notes": "In person 6:30PM",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Laughs at the Loft",
+        "Location": "Bramble Arts Loft",
+        "Address": "5545 N Clark St, Chicago, IL 60640",
+        "Sign Up Time/Notes": "Monthly women & nonbinary open mic, first Tues of the month, 6:30 sign up",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Funny at Frances",
+        "Location": "Frances Cocktail Lounge",
+        "Address": "307 E 75th St, Chicago, IL 60619",
+        "Sign Up Time/Notes": "In person before start",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "The Laughing Academy After Hours",
+        "Location": "Ten Ninety Brewery",
+        "Address": "1025 Waukegan Rd, Glenview, IL 60025",
+        "Sign Up Time/Notes": "2nd Tuesday of the month, sign up 6:30pm",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Old Town Open Mic",
+        "Location": "Black Barrel Lounge",
+        "Address": "455 W North Ave, Chicago, IL 60610",
+        "Sign Up Time/Notes": "In Person list at 7PM,  5min sets",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "shOwPEN MIC",
+        "Location": "Friendly Tap",
+        "Address": "6733 Roosevelt Rd, Berwyn, IL 60402",
+        "Sign Up Time/Notes": "2nd Tuesday of the Month. 8 online sign up spots, 2 lottery drawn night of and a headliner closing, online sign up form at ig bio @showpen.mic. Lottery sign up 7:00PM, Drawn 7:15PM",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "The Isle",
+        "Location": "Emerald Isle Edison Park",
+        "Address": "6686 N Northwest Hwy, Chicago, IL 60631",
+        "Sign Up Time/Notes": "In person 7:30",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Glenwood Comedy",
+        "Location": "The Glenwood",
+        "Address": "6962 N Glenwood Ave, Chicago, IL 60626",
+        "Sign Up Time/Notes": "Sign Up in person 7:30PM, early sign up link in IG bio, Mic with feature acts",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Jerks at Jo's",
+        "Location": "Josephines",
+        "Address": "207 S Villa Ave, Villa Park, IL 60181",
+        "Sign Up Time/Notes": "Live podcast and list at 7pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Comedy Stool Open Mic Night",
+        "Location": "The Comedy Stool",
+        "Address": "6554 S Menard, Bedford Park, IL 60638",
+        "Sign Up Time/Notes": "Sign Up 7:00pm. 2 drink minimum",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Open Mic Night",
+        "Location": "The Hideaway",
+        "Address": "1245 Burnham Ave, Calumet City, IL 60409",
+        "Sign Up Time/Notes": "Bi-Weekly, Sign-Up 7:00pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Pint O' Laughs Open Mic",
+        "Location": "Harrigan's",
+        "Address": "2816 N Halsted Chicago, IL 60657",
+        "Sign Up Time/Notes": "In person List at 8",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Pizza Mic",
+        "Location": "Pizzeria Serio",
+        "Address": "1708 W Belmont Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Sign up online at FB group link or in person at 8,  BIPOC, LGBTQ+, and Femm comics prioritized",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "See You Next Tuesday",
+        "Location": "Moe Joe's",
+        "Address": "24033 Lockport St, Plainfield, IL 60544",
+        "Sign Up Time/Notes": "8pm sign up",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Lottie's Open Mic",
+        "Location": "Lottie's Pub",
+        "Address": "1925 W Cortland St, Chicago, IL 60622",
+        "Sign Up Time/Notes": "In Person 8:30pm",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Laugh Factory Open Mic",
+        "Location": "Laugh Factory",
+        "Address": "3175 N Broadway, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Sign up 7pm - BUCKET DRAW 7:20, Mic after show",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Duck Duck Goose",
+        "Location": "O'Donnell's",
+        "Address": "4500 N Elston Ave, Chicago, IL 60630",
+        "Sign Up Time/Notes": "Sign up 8:30PM",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "The Open Stage",
+        "Location": "Annoyance Theater",
+        "Address": "851 W Belmont Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Stand up, Sketch, Improv, Variety. Bucket Draw. Sign-Up 9pm",
+        "Start Time": "9:30 PM"
+    },
+    {
+        "Day": "Tuesday",
+        "Mic Name": "Goodest ROAST bucket open mic",
+        "Location": "Claddagh Ring Pub",
+        "Address": "2306 W Foster Ave, Chicago, IL",
+        "Sign Up Time/Notes": "Signup 11pm in person",
+        "Start Time": "11:30 PM"
+    },
+
+    {
+        "Day": "Wednesday",
+        "Mic Name": "3 Blind Mice Open Mic",
+        "Location": "The Lincoln Lodge",
+        "Address": "2040 N Milwaukee Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "Sign up 5:30pm, cap at 25",
+        "Start Time": "6:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Humo Smokehouse",
+        "Location": "Humo Smokehouse",
+        "Address": "1000 N Rohlwing Rd #13, Lombard, IL 60148",
+        "Sign Up Time/Notes": "Sign up 6PM Weekly",
+        "Start Time": "6:30 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Comedy Ground Open Mic",
+        "Location": "Uncommon Ground",
+        "Address": "3800 N Clark St, Chicago, IL 60613",
+        "Sign Up Time/Notes": "Sign up 6:30Pm, Best set wins cash - worst wins a shot",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Emerald City Open Mic",
+        "Location": "Emerald City Coffee",
+        "Address": "1224 W Wilson Ave, Chicago, IL 60640",
+        "Sign Up Time/Notes": "All arts, signup 6:30pm",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Ashbary Open Mic",
+        "Location": "Ashbary Coffee House",
+        "Address": "8695 Archer Ave, Willow Springs, IL 60480",
+        "Sign Up Time/Notes": "All arts, In person at 6:30pm. Sometimes outside",
+        "Start Time": "7:00-7:30 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Off The Grid Open Mic",
+        "Location": "Flagship Tavern",
+        "Address": "1622 W Belmont Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Sign up 7PM, mic starts after show on show dates",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Red Room Open Mic",
+        "Location": "Red Room Comedy Club",
+        "Address": "7442 N Western Ave, Chicago, IL 60645",
+        "Sign Up Time/Notes": "All arts. List at 7:30pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Rabbit Hole Open Mic",
+        "Location": "Rabbit Hole Wrigley",
+        "Address": "3474 N Clark St, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Post 8 pm show open mic; sign up 7:45PM",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Ace's Wild Comedy Night",
+        "Location": "Ace's Liquor and Tap",
+        "Address": "4441 W Armitage Ave, Chicago, IL 60639",
+        "Sign Up Time/Notes": "Bi Weekly (check before you go) Signup 7:30PM",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Jukebox Comedy Club",
+        "Location": "Jukebox Comedy Club",
+        "Address": "3527 W Farmington Rd, Peoria, IL 61604",
+        "Sign Up Time/Notes": "Sign up 7:00pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Comedy Vault Open Mic",
+        "Location": "Comedy Vault",
+        "Address": "18 E Wilson St, Batavia, IL 60510",
+        "Sign Up Time/Notes": "Sign up online at website (see resource links below)",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Comedy Plex Open Mic",
+        "Location": "Comedy Plex Comedy Club",
+        "Address": "1128 Lake St Lower Level, Oak Park, IL 60301",
+        "Sign Up Time/Notes": "Sign up online at website noon day of, 25 Comic Cap (see resource links below)",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Comedy Open Mic",
+        "Location": "Village Spirit Pub",
+        "Address": "1123 N Cedar Lake Rd, Round Lake Beach, IL 60073",
+        "Sign Up Time/Notes": "Signup 7:30 pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "The Gong Show",
+        "Location": "Gracie O'Malley's",
+        "Address": "1635 N Milwaukee Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "1st and 3rd Wednesday of the month, sign up 8pm",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Da Funny People Open Mic",
+        "Location": "Bar 10 Doors",
+        "Address": "1251 W Taylor St, Chicago, IL 60607",
+        "Sign Up Time/Notes": "Doors open at 8pm, in person",
+        "Start Time": "8:30 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Killin It At Trace",
+        "Location": "Trace",
+        "Address": "3714 N Clark St, Chicago, IL 60613",
+        "Sign Up Time/Notes": "Signup 8:30PM, impacted by Wrigley events check before going",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Open Mic Slide",
+        "Location": "The Slide Bar",
+        "Address": "939 S Western Ave, Chicago, IL 60612",
+        "Sign Up Time/Notes": "Monthly, Sign up in person 8pm",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Wednesday",
+        "Mic Name": "Easy Laughs Open Mic",
+        "Location": "Easy Bar",
+        "Address": "1944 W Division St, Chicago, IL 60622",
+        "Sign Up Time/Notes": "In person sign up 10pm",
+        "Start Time": "10:30 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Dovetail Open Mic Night",
+        "Location": "Dovetail Brewery",
+        "Address": "1800 W Belle Plaine Ave, Chicago, IL 60613",
+        "Sign Up Time/Notes": "Last Thursday of the month is a showcase, sign up 6:30PM",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "BLESS - The Mic",
+        "Location": "Aval Bar",
+        "Address": "2427 W Hubbard St, Chicago, IL 60612",
+        "Sign Up Time/Notes": "List at 6:30PM, 5 min sets",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "A Mic of Their Own",
+        "Location": "Whiskey Girl Tavern",
+        "Address": "6318 N Clark St, Chicago, IL 60660",
+        "Sign Up Time/Notes": "Sign up online day of - First 10 spots reserved for queer comics",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Loose 4",
+        "Location": "iO",
+        "Address": "1501 N Kingsbury St, Chicago, IL 60642",
+        "Sign Up Time/Notes": "In person sign up 6:30, spaces reserved for women, non binary people, & POC",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "The Writer's Room Open Mic",
+        "Location": "The Gamblur",
+        "Address": "1232 N Green St, McHenry, IL 60050",
+        "Sign Up Time/Notes": "Sign up 7:00pm",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Mrs Murphy's Open Mic",
+        "Location": "Mrs. Murphy and Sons Irish Bistro",
+        "Address": "3905 N Lincoln Ave, Chicago, IL 60613",
+        "Sign Up Time/Notes": "4th Thursday of each month, sign up 7:00Pm",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Schubas Open Mic",
+        "Location": "Schubas",
+        "Address": "3159 N Southport Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Bucket draw. Bucket out at 7:30.",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Lolz @ Nola",
+        "Location": "Nola Bar & Kitchen",
+        "Address": "3481 N Clark St, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Signup online via Google doc day before, first five spots for female/nonbinary comics. Variety show to follow",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Make Me Laugh",
+        "Location": "Dreamers Yolo Event Space",
+        "Address": "5419 N Lincoln Ave, Chicago, IL 60625",
+        "Sign Up Time/Notes": "Early signup at link in IG bio, 7:30pm in person signup/check in",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Open Mic @ Bruno's",
+        "Location": "Bruno's",
+        "Address": "6562 N Sheridan Rd, Chicago, IL 60626",
+        "Sign Up Time/Notes": "List at 7:30pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Comedy Under Construction",
+        "Location": "Babs Comedy Club",
+        "Address": "7316 Madison St, Forest Park, IL 60130",
+        "Sign Up Time/Notes": "Open Mic and Improv Jam Sign Up 7:45pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Pizzeria Deville",
+        "Location": "Pizzeria Deville",
+        "Address": "404 N Milwaukee Ave, Libertyville, IL 60048",
+        "Sign Up Time/Notes": "Sign up 7:45pm, 8-11pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Jukebox Comedy Club",
+        "Location": "Jukebox Comedy Club",
+        "Address": "3527 W Farmington Rd, Peoria, IL 61604",
+        "Sign Up Time/Notes": "Sign up 7:00pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Comedy Under Construction",
+        "Location": "Babs Comedy Club",
+        "Address": "7316 Madison St, Forest Park, IL 60130",
+        "Sign Up Time/Notes": "Open Mic and Improv Jam Sign Up 7:45pm",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Brand New Open Mic",
+        "Location": "One City Tap",
+        "Address": "3115 S Archer Ave, Chicago, IL 60608",
+        "Sign Up Time/Notes": "All arts, across from Orange Line, sign up 8pm monthly mic",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Thirsty Open Mic",
+        "Location": "The Thirsty Tavern",
+        "Address": "5368 N Milwaukee Ave, Chicago, IL 60630",
+        "Sign Up Time/Notes": "All arts open mic, email maxreeve773@gmail.com for spots",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "El Open Mic",
+        "Location": "Simone's Bar",
+        "Address": "960 W 18th St, Chicago, IL 60608",
+        "Sign Up Time/Notes": "Monthly Spanish Mic, third Thursday, signup 8:30pm",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "The Comedy Bar Mic",
+        "Location": "The Comedy Bar",
+        "Address": "162 E Superior St, Chicago, IL 60611",
+        "Sign Up Time/Notes": "In person sign up starting at 7pm, random draw, Mic after show",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Problematica",
+        "Location": "Social Junkie",
+        "Address": "3848 N Harlem Ave, Chicago, IL 60634",
+        "Sign Up Time/Notes": "Showcase 8:00pm-9:30pm then open mic to follow",
+        "Start Time": "9:30 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Unrated Open Mic",
+        "Location": "My Buddy's",
+        "Address": "4416 N Clark St, Chicago, IL 60640",
+        "Sign Up Time/Notes": "Sign up 9:30 pm",
+        "Start Time": "10:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Holiday Mic",
+        "Location": "Holiday Club",
+        "Address": "4000 N Sheridan Rd Chicago, IL 60613",
+        "Sign Up Time/Notes": "In Person 9:30pm Sign up after show. First 5 reserved for women and non binary. Best set wins feature in showcase.",
+        "Start Time": "10:00 PM"
+    },
+    {
+        "Day": "Thursday",
+        "Mic Name": "Beer Belly Open Mic",
+        "Location": "Pony Inn",
+        "Address": "1638 W Belmont, Chicago, IL",
+        "Sign Up Time/Notes": "10pm in person sign up. Goes until the bar closes",
+        "Start Time": "10:30 PM"
+    },
+    {
+        "Day": "Friday",
+        "Mic Name": "The Gauntlet",
+        "Location": "O'Donnell's",
+        "Address": "4500 N Elston Ave, Chicago, IL 60630",
+        "Sign Up Time/Notes": "Sign up 7:30pm. Open mic competition; 3 qualifiers picked each week & finals last week of month. Monthly winner receives cash & a spot on a Vixen show",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Friday",
+        "Mic Name": "Power Hour",
+        "Location": "FDR Post 923 American Legion",
+        "Address": "1824 W Cortland St, Chicago, IL 60622",
+        "Sign Up Time/Notes": "Signup around 8ish",
+        "Start Time": "8:00 PM"
+    },
+
+ {
+        "Day": "Saturday",
+        "Mic Name": "Did You Think That Was Funny?",
+        "Location": "Output Wrigleyville",
+        "Address": "3720 N Clark St, Chicago, IL 60613",
+        "Sign Up Time/Notes": "Signup 7:30 pm in person",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Saturday",
+        "Mic Name": "Midnight Comedy at the G-Spot",
+        "Location": "Reggies Rock Club",
+        "Address": "2105 S State St. Chicago, IL",
+        "Sign Up Time/Notes": "Sign up in person at 11:30 PM",
+        "Start Time": "12:00 PM"
+    },
+
+ {
+        "Day": "Sunday",
+        "Mic Name": "Sunday Open Mic",
+        "Location": "Annoyance Theater",
+        "Address": "851 W Belmont Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "Bi-Weekly, Cap at 25, Signup 4:00pm",
+        "Start Time": "4:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "Living Room Sessions",
+        "Location": "AliveOne",
+        "Address": "2683 N Halsted, Chicago, IL 60614",
+        "Sign Up Time/Notes": "In person sign up at 5:15, second Sunday is female and non-binary comics mic night",
+        "Start Time": "5:30 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "At The Pocket All Arts Mic",
+        "Location": "Surge Billiards Logan Square",
+        "Address": "3716 W Fullerton Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "In person 5:45p or online through link posted in FB groups by Vik Pandya or Tyler Fowler",
+        "Start Time": "6:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "It's Just Jokes",
+        "Location": "Chief O'Neill's",
+        "Address": "3471 N Elston Ave, Chicago, IL 60618",
+        "Sign Up Time/Notes": "Sign up 6:30pm + Online Sign up (formerly 'The Joke Shop')",
+        "Start Time": "7:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "Three Dead Moose Comedy Open Mic",
+        "Location": "Wills Northwoods Inn",
+        "Address": "3030 N Racine Ave, Chicago, IL 60657",
+        "Sign Up Time/Notes": "In person 7pm",
+        "Start Time": "7:30 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "Ludlow Mic",
+        "Location": "Ludlow Liquors",
+        "Address": "2959 N California, Chicago, IL",
+        "Sign Up Time/Notes": "In person 7:30PM",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "It Ain't My Fault Open Mic",
+        "Location": "E77 Sports Bar",
+        "Address": "4702 147th St, Midlothian, IL 60445",
+        "Sign Up Time/Notes": "Signup before start, must be 25 and older to enter",
+        "Start Time": "8:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "The Take A Shot Mic",
+        "Location": "My Buddy's",
+        "Address": "4416 N Clark St, Chicago, IL 60640",
+        "Sign Up Time/Notes": "Signup in person 8:30PM, best sets get future showcase spots",
+        "Start Time": "9:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "Fun Simulation 2000",
+        "Location": "Reed's Local",
+        "Address": "3017 W Belmont Ave, Chicago, IL 60618",
+        "Sign Up Time/Notes": "In Person 9:30PM",
+        "Start Time": "10:00 PM"
+    },
+    {
+        "Day": "Sunday",
+        "Mic Name": "Potty Mouth Open Mic",
+        "Location": "The Burlington Bar",
+        "Address": "3425 W Fullerton Ave, Chicago, IL 60647",
+        "Sign Up Time/Notes": "Sign up 9:30PM",
+        "Start Time": "10:00 PM"
+    }
+
+]

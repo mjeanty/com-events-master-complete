@@ -1,0 +1,101 @@
+/* Importing Retro Font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Global Body Styles */
+body {
+  background-color: black;
+  color: #00ff00; /* Neon green */
+  font-family: 'Press Start 2P', monospace; /* Retro pixel font */
+  margin: 0;
+  padding: 0;
+}
+
+/* Main App Container */
+.App {
+  text-align: center;
+}
+
+/* Header Container */
+.App-header {
+  margin: 20px;
+  padding: 20px;
+
+  border-radius: 8px;
+  
+  color: #f1f1f1; /* Light gray text */
+}
+
+/* Header Title */
+.App-header h1 {
+  font-size: 2.5rem; /* Larger title size */
+  background: linear-gradient(90deg, #ff00ff, #00ffff); /* Gradient neon */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientMove 3s infinite; /* Gradient scroll animation */
+  text-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffff; /* Glowing effect */
+}
+
+/* Dropdown Styles */
+.dropdown {
+  background-color: black;
+  color: #00ff00; /* Neon green */
+  border: 2px solid #00ff00;
+  padding: 5px;
+  margin-bottom: 20px;
+  font-family: inherit;
+}
+
+/* Events List Container */
+.events-list {
+  text-align: left;
+  margin: 20px auto;
+  width: 80%;
+  padding: 20px;
+  border: 1px solid #00ff00; /* Neon green */
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+}
+
+/* Individual Event Item */
+.event-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5); /* Slight transparency */
+  border: 1px solid #ff00ff; /* Neon magenta border */
+  border-radius: 8px;
+}
+
+/* Label Styles */
+.label {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #00ffff; /* Neon cyan */
+  text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff; /* Glow */
+}
+
+/* Links */
+.link {
+  color: #ff00ff; /* Neon magenta */
+  text-decoration: none;
+  text-shadow: 0 0 10px #ff00ff; /* Glow */
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+/* Horizontal Line Styling */
+hr {
+  border: none;
+  border-top: 1px solid #00ff00; /* Neon green line */
+}
+
+/* Keyframes for Gradient Animation */
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
